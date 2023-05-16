@@ -1,0 +1,40 @@
+- title: Información Personal
+  type: map
+  contents:
+    - name: Full Name
+      value: Carmen Márquez Marco
+    #- name: Date of Birth
+    #  value: 14th March 1879
+    - name: Languages
+      value: Spanish, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master's Degree in Biomedical Biotechnology
+      institution: <a href="http://www.upv.es/en">Polytechnic University of Valencia (UPV)</a>, Spain
+      year: Present
+      #description:
+      #  - 
+
+    - title: Degree in Biotechnology
+      institution: <a href="https://www.umh.es/">Miguel Hernández University (UMH)</a>, Spain
+      year: 2021
+      description:
+        - High Academic Performance Group (ARA)
+
+- title: Projects / Awards
+  type: time_table
+  contents:
+    - title: OKelin (biotechnological food product)
+      #institution:  <a href="https://vrain.upv.es/">Valencian Research Institute for Artificial Intelligence (VRAIN)</a>, <a href="http://www.upv.es/en">Universidad Politécnica de Valencia (UPV)</a>
+      year: 2021
+      description:
+        - Ecotrophelia Finalist (National Contest) <a href="https://iambiente.es/2021/08/la-empresa-henko-snacks-y-la-iniciativa-okelin-finalistas-en-los-premios-ecotrophelia-2021/">Link</a>
+        - Cátedra Palmeral de Elche Award <a href="https://alicanteplaza.es/estudiantes-de-la-umh-presentan-productos-innovadores-en-el-concurso-alimentario-innobiotec">Link</a>
+
+    - title: "TFG: Cytokine-mediated LSECtin regulation of cell lines to cirrhosis."
+      institution: <a href="https://www.umh.es/"> Miguel Hernández University (UMH)</a>, Spain
+      year: 2021
+      description:
+       - Collaboration in the medical area of the San Juan de Alicante hospital. (UMH)

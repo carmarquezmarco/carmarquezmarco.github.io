@@ -1,0 +1,78 @@
+- title: Información Personal
+  type: map
+  contents:
+    - name: Nombre
+      value: Carmen Márquez Marco
+    #- name: Date of Birth
+    #  value: 14th March 1879
+    - name: Idiomas
+      value: Español, Inglés, Valenciano/Catalán
+
+- title: Formación
+  type: time_table
+  contents:
+    - title: Máster en Biotecnología Biomédica
+      institution: <a href="http://www.upv.es/en">Universidad Politécnica de Valencia (UPV)</a>, España
+      year: Present
+      #description:
+      #  - 
+
+    - title: Grado en Biotecnología
+      institution: <a href="https://www.umh.es/">Universidad Miguel Hernández (UMH)</a>, España
+      year: 2021
+      description:
+        - Grupo de Alto Rendimiento Académico (ARA)
+
+- title: Proyectos / Premios
+  type: time_table
+  contents:
+    - title: OKelin (producto alimenticio de naturaleza biotecnológica)
+      #institution:  <a href="https://vrain.upv.es/">Valencian Research Institute for Artificial Intelligence (VRAIN)</a>, <a href="http://www.upv.es/en">Universidad Politécnica de Valencia (UPV)</a>
+      year: 2021
+      description:
+        - Finalista Ecotrophelia (Concurso Nacional) <a href="https://iambiente.es/2021/08/la-empresa-henko-snacks-y-la-iniciativa-okelin-finalistas-en-los-premios-ecotrophelia-2021/">Link</a>
+        - Premio Cátedra Palmeral de Elche <a href="https://alicanteplaza.es/estudiantes-de-la-umh-presentan-productos-innovadores-en-el-concurso-alimentario-innobiotec">Link</a>
+
+    - title: "TFG: Regulación de LSECtin mediada por citoquinas de las líneas celulares a la cirrosis"
+      institution: <a href="https://www.umh.es/">Universidad Miguel Hernández (UMH)</a>, España
+      year: 2021
+      description:
+       - Colaboración en el área médica del hospital San Juan de Alicante (UMH)
+
+
+# 
+# - title: Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">ER-GPT</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# 
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+# 
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+# 
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# 

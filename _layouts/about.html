@@ -40,37 +40,66 @@ layout: default
             {{ content }}
           </div>
 
+          <br>
+
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
             {%- include news.html limit=true %}
+            <br>
           {%- endif %}
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
             <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
             {%- include latest_posts.html %}
+            <br>
           {%- endif %}
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
             {%- include selected_papers.html %}
+            <br>
           {%- endif %}
+
+
+          <div class="cv">
+            {% for entry in site.data.cv_about %}
+              <div class="card mt-3 p-3">
+                <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+                <div>
+                {% if entry.type == "list" %}
+                  {% include cv/list.html %}
+                {% elsif entry.type == "map" %}
+                  {% include cv/map.html %}
+                {% elsif entry.type == "nested_list" %}
+                  {% include cv/nested_list.html %}
+                {% elsif entry.type == "time_table" %}
+                 {% include cv/time_table.html %}
+                {% else %}
+                  {{ entry.contents }}
+                {% endif %}
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+
 
           <!-- Social -->
           {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
-
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
-
+          <div class="social">
+            <div class="contact-icons">
+              {% include social.html %}
             </div>
-          {%- endif %}
-        </article>
+
+            <div class="contact-note">
+              {{ site.contact_note }}
+            </div>
+
+          </div>
+          <br>
+        {%- endif %}
+      </article>
 
 </div>

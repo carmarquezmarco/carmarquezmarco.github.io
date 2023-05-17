@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: <a href='https://www.cipf.es/?lang=es'>CIPF</a>
+subtitle: <a href='https://www.cipf.es/?lang=es'>Centro de Investigación Príncipe Felipe (CIPF)</a>
 
 profile:
   align: right

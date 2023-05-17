@@ -23,15 +23,42 @@
       description:
         - High Academic Performance Group (ARA)
 
-- title: Projects / Awards
+- title: Experiencia
   type: time_table
   contents:
-    - title: OKelin (biotechnological food product)
+    - title: 
+      institution: <a href='https://www.cipf.es/?lang=es'>Príncipe Felipe Research Center (CIPF)</a>, España
+      year: Actual
+      #description:
+      #  - 
+
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: " OKelin: Ecotrophelia Finalist (National Contest)"
       #institution:  <a href="https://vrain.upv.es/">Valencian Research Institute for Artificial Intelligence (VRAIN)</a>, <a href="http://www.upv.es/en">Universidad Politécnica de Valencia (UPV)</a>
       year: 2021
       description:
-        - Ecotrophelia Finalist (National Contest) <a href="https://iambiente.es/2021/08/la-empresa-henko-snacks-y-la-iniciativa-okelin-finalistas-en-los-premios-ecotrophelia-2021/">Link</a>
-        - Cátedra Palmeral de Elche Award <a href="https://alicanteplaza.es/estudiantes-de-la-umh-presentan-productos-innovadores-en-el-concurso-alimentario-innobiotec">Link</a>
+        - Biotechnological food product
+        - "Ecotrophelia Finalist (National Contest): <a href="https://iambiente.es/2021/08/la-empresa-henko-snacks-y-la-iniciativa-okelin-finalistas-en-los-premios-ecotrophelia-2021/">Link</a>"
+
+
+    - title: " OKelin: Cátedra Palmeral de Elche Award"
+      #institution:  <a href="https://vrain.upv.es/">Valencian Research Institute for Artificial Intelligence (VRAIN)</a>, <a href="http://www.upv.es/en">Universidad Politécnica de Valencia (UPV)</a>
+      year: 2021
+      description:
+        - Biotechnological food product
+        - "Cátedra Palmeral de Elche Award: <a href="https://alicanteplaza.es/estudiantes-de-la-umh-presentan-productos-innovadores-en-el-concurso-alimentario-innobiotec">Link</a>"
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: "TFG: Cytokine-mediated LSECtin regulation of cell lines to cirrhosis."
+      institution: <a href="https://www.umh.es/"> Miguel Hernández University (UMH)</a>, Spain
+      year: 2021
+      description:
+       - Collaboration in the medical area of the San Juan de Alicante hospital. (UMH)
 
     - title: "TFG: Cytokine-mediated LSECtin regulation of cell lines to cirrhosis."
       institution: <a href="https://www.umh.es/"> Miguel Hernández University (UMH)</a>, Spain

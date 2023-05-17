@@ -23,6 +23,15 @@
       description:
         - Grupo de Alto Rendimiento Académico (ARA)
 
+- title: Experiencia
+  type: time_table
+  contents:
+    - title: 
+      institution: <a href='https://www.cipf.es/?lang=es'>Centro de Investigación Príncipe Felipe (CIPF)</a>, España
+      year: Actual
+      #description:
+      #  - 
+
 - title: Proyectos / Premios
   type: time_table
   contents:

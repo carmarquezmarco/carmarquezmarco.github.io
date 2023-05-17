@@ -13,6 +13,20 @@
       description:
         - Grupo de Alto Rendimiento Académico (ARA)
 
+- title: Experiencia
+  type: time_table
+  contents:
+    - title: 
+      institution: <a href='https://www.cipf.es/?lang=es'>Centro de Investigación Príncipe Felipe (CIPF)</a>, España
+      year: Actual
+      #description:
+      #  - 
+
+    - title: Grado en Biotecnología
+      institution: <a href="https://www.umh.es/">Universidad Miguel Hernández (UMH)</a>, España
+      year: 2021
+      description:
+        - Grupo de Alto Rendimiento Académico (ARA)
 
 - title: Proyectos / Premios
   type: time_table

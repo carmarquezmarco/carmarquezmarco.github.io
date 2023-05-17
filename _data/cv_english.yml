@@ -23,10 +23,10 @@
       description:
         - High Academic Performance Group (ARA)
 
-- title: Experiencia
+- title: Experience
   type: time_table
   contents:
-    - title: 
+    - title: Biotechnologist Researcher at Príncipe Felipe Research Center (CIPF)
       institution: <a href='https://www.cipf.es/?lang=es'>Príncipe Felipe Research Center (CIPF)</a>, España
       year: Actual
       #description:

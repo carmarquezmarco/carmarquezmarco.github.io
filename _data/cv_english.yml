@@ -26,11 +26,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Biotechnologist Researcher at Príncipe Felipe Research Center (CIPF)
-      institution: <a href='https://www.cipf.es/?lang=es'>Príncipe Felipe Research Center (CIPF)</a>, España
+    - title: Biotechnologist Researcher at Centro de Investigación Príncipe Felipe (CIPF)
+      institution: <a href='https://www.cipf.es/?lang=es'>Centro de Investigación Príncipe Felipe (CIPF)</a>, España
       year: Actual
-      #description:
-      #  - 
+      description:
+        - 1 year of internship in the laboratory "Microbe-host interactions in metabolic health" at the Centro de Investigación Príncipe Felipe (CIPF)
 
 
 - title: Awards
@@ -54,14 +54,15 @@
 - title: Projects
   type: time_table
   contents:
-    - title: "TFM: Cytokine-mediated LSECtin regulation of cell lines to cirrhosis."
-      institution: <a href='https://www.cipf.es/?lang=es'>Príncipe Felipe Research Center (CIPF)</a>, España
+    - title: "TFM: Cloning and characterization of ClpB protein from different microbiota resident bacteria"
+      institution: <a href='https://www.cipf.es/?lang=es'Centro de Investigación Príncipe Felipe (CIPF)</a>, España
       year: 2022
       description:
-       - Collaboration in the Príncipe Felipe Research Center (CIPF)
+       - 1 year of internship in the laboratory "Microbe-host interactions in metabolic health" at the Centro de Investigación Príncipe Felipe (CIPF)
 
     - title: "TFG: Cytokine-mediated LSECtin regulation of cell lines to cirrhosis."
       institution: <a href="https://www.umh.es/"> Miguel Hernández University (UMH)</a>, Spain
       year: 2021
       description:
        - Collaboration in the medical area of the San Juan de Alicante hospital. (UMH)
+    

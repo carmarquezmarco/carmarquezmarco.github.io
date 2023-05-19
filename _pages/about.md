@@ -25,4 +25,4 @@ Soy una <b>Biotecnóloga</b> con mucha pasión y un perfil muy <b>versátil</b>:
 
 Actualmente, investigo sobre microbiota y salud metabólica en el Centro de Investigación Principe Felipe (CIPF), donde realizo mi Trabajo Final de Máster y prácticas.
 
-Mis siguietes objetivos son ampliar mis conocimientos en el mundo profesional y poner a prueba mis aptitudes.
+Mis siguientes objetivos son ampliar mis conocimientos en el mundo profesional y poner a prueba mis aptitudes.

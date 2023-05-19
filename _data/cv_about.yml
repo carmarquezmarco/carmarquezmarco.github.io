@@ -1,3 +1,14 @@
+- title: Contacto
+  type: map
+  contents:
+    - name: Número de teléfono
+      value: 633599683
+    - name: Correo electrónico
+      value: cardepp99@gmail.com
+    - name: Linkedin
+      value: <a href="https://www.linkedin.com/in/carmen-marquez-marco/">https://www.linkedin.com/in/carmen-marquez-marco/</a>
+    
+
 - title: Formación
   type: time_table
   contents:
@@ -31,15 +42,14 @@
       #institution:  <a href="https://vrain.upv.es/">Valencian Research Institute for Artificial Intelligence (VRAIN)</a>, <a href="http://www.upv.es/en">Universidad Politécnica de Valencia (UPV)</a>
       year: 2021
       description:
-        - Producto alimenticio de naturaleza biotecnológica
+        - Producto alimenticio de naturaleza biotecnológica con principios prebióticos y apto para celíacos.
         - Finalista Ecotrophelia (Concurso Nacional) - <a href="https://iambiente.es/2021/08/la-empresa-henko-snacks-y-la-iniciativa-okelin-finalistas-en-los-premios-ecotrophelia-2021/">Link</a>
-
 
     - title: " OKelin: Cátedra Palmeral de Elche Award"
       #institution:  <a href="https://vrain.upv.es/">Valencian Research Institute for Artificial Intelligence (VRAIN)</a>, <a href="http://www.upv.es/en">Universidad Politécnica de Valencia (UPV)</a>
       year: 2021
       description:
-        - Producto alimenticio de naturaleza biotecnológica
+        - Producto alimenticio de naturaleza biotecnológica con principios prebióticos y apto para celíacos.
         - Premio Cátedra Palmeral de Elche - <a href="https://alicanteplaza.es/estudiantes-de-la-umh-presentan-productos-innovadores-en-el-concurso-alimentario-innobiotec">Link</a>
 
 - title: Proyectos
@@ -47,7 +57,7 @@
   contents:
     - title: "TFM: Clonación y caracterización de la proteína ClpB de diferentes bacterias residentes en la microbiota."
       institution: <a href='https://www.cipf.es/?lang=es'>Príncipe Felipe Research Center (CIPF)</a>, España
-      year: 2022
+      year: 2022 - 2023
       description:
        - 1 año de prácticas en el laboratorio "Interacciones microbio-hospedador en la salud metabólica" en el Centro de Investigación Príncipe Felipe (CIPF).
 
@@ -56,3 +66,10 @@
       year: 2021
       description:
        - Collaboration in the medical area of the San Juan de Alicante hospital. (UMH)
+
+- title: Idiomas
+  type: list
+  contents:
+    - Español
+    - Inglés
+    - Valenciano/Catalán

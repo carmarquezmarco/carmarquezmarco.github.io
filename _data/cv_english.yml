@@ -1,12 +1,21 @@
-- title: Información Personal
+- title: Personal Information
   type: map
   contents:
     - name: Full Name
       value: Carmen Márquez Marco
-    #- name: Date of Birth
-    #  value: 14th March 1879
     - name: Languages
-      value: Spanish, English
+      value: Spanish, English, Valenciano/Catalán
+
+- title: Contacto
+  type: map
+  contents:
+    - name: Número de teléfono
+      value: 633599683
+    - name: Correo electrónico
+      value: cardepp99@gmail.com
+    - name: Linkedin
+      value: <a href="https://www.linkedin.com/in/carmen-marquez-marco/">https://www.linkedin.com/in/carmen-marquez-marco/</a>
+
 
 - title: Education
   type: time_table
@@ -37,18 +46,16 @@
   type: time_table
   contents:
     - title: " OKelin: Ecotrophelia Finalist (National Contest)"
-      #institution:  <a href="https://vrain.upv.es/">Valencian Research Institute for Artificial Intelligence (VRAIN)</a>, <a href="http://www.upv.es/en">Universidad Politécnica de Valencia (UPV)</a>
       year: 2021
       description:
-        - Biotechnological food product
+        - Biotechnological food product with prebiotic principles and suitable for coeliacs.
         - Ecotrophelia Finalist (National Contest) - <a href="https://iambiente.es/2021/08/la-empresa-henko-snacks-y-la-iniciativa-okelin-finalistas-en-los-premios-ecotrophelia-2021/">Link</a>
 
 
     - title: " OKelin: Cátedra Palmeral de Elche Award"
-      #institution:  <a href="https://vrain.upv.es/">Valencian Research Institute for Artificial Intelligence (VRAIN)</a>, <a href="http://www.upv.es/en">Universidad Politécnica de Valencia (UPV)</a>
       year: 2021
       description:
-        - Biotechnological food product
+        - iotechnological food product with prebiotic principles and suitable for coeliacs.
         - Cátedra Palmeral de Elche Award - <a href="https://alicanteplaza.es/estudiantes-de-la-umh-presentan-productos-innovadores-en-el-concurso-alimentario-innobiotec">Link</a>
 
 - title: Projects
@@ -56,13 +63,13 @@
   contents:
     - title: "TFM: Cloning and characterization of ClpB protein from different microbiota resident bacteria"
       institution: <a href='https://www.cipf.es/?lang=es'Centro de Investigación Príncipe Felipe (CIPF)</a>, España
-      year: 2022
+      year: 2022 - 2023
       description:
-       - 1 year of internship in the laboratory "Microbe-host interactions in metabolic health" at the Centro de Investigación Príncipe Felipe (CIPF)
+       - 1 year of internship in the laboratory "Microbe-host interactions in metabolic health" at the Centro de Investigación Príncipe Felipe (CIPF).
 
     - title: "TFG: Cytokine-mediated LSECtin regulation of cell lines to cirrhosis."
       institution: <a href="https://www.umh.es/"> Miguel Hernández University (UMH)</a>, Spain
       year: 2021
       description:
-       - Collaboration in the medical area of the San Juan de Alicante hospital. (UMH)
+       - Collaboration in the medical area of the San Juan Alicante hospital (UMH).
     

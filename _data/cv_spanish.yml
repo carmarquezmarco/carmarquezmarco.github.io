@@ -3,10 +3,19 @@
   contents:
     - name: Nombre
       value: Carmen Márquez Marco
-    #- name: Date of Birth
-    #  value: 14th March 1879
     - name: Idiomas
       value: Español, Inglés, Valenciano/Catalán
+
+- title: Contacto
+  type: map
+  contents:
+    - name: Número de teléfono
+      value: 633599683
+    - name: Correo electrónico
+      value: cardepp99@gmail.com
+    - name: Linkedin
+      value: <a href="https://www.linkedin.com/in/carmen-marquez-marco/">https://www.linkedin.com/in/carmen-marquez-marco/</a>
+  
 
 - title: Formación
   type: time_table
@@ -38,17 +47,15 @@
   type: time_table
   contents:
     - title: " OKelin: Finalista Ecotrophelia (Concurso Nacional)"
-      #institution: 
-      description:
-        - Producto alimenticio de naturaleza biotecnológica
-        - Finalista Ecotrophelia (Concurso Nacional) - <a href="https://iambiente.es/2021/08/la-empresa-henko-snacks-y-la-iniciativa-okelin-finalistas-en-los-premios-ecotrophelia-2021/">Link</a>
-
-
-    - title: " OKelin: Cátedra Palmeral de Elche Award"
-      institution:
       year: 2021
       description:
-        - Producto alimenticio de naturaleza biotecnológica
+        - Producto alimenticio de naturaleza biotecnológica con principios prebióticos y apto para celíacos.
+        - Finalista Ecotrophelia (Concurso Nacional) - <a href="https://iambiente.es/2021/08/la-empresa-henko-snacks-y-la-iniciativa-okelin-finalistas-en-los-premios-ecotrophelia-2021/">Link</a>
+
+    - title: " OKelin: Premio Cátedra Palmeral de Elche"
+      year: 2021
+      description:
+        - Producto alimenticio de naturaleza biotecnológica con principios prebióticos y apto para celíacos.
         - Premio Cátedra Palmeral de Elche - <a href="https://alicanteplaza.es/estudiantes-de-la-umh-presentan-productos-innovadores-en-el-concurso-alimentario-innobiotec">Link</a>
 
 - title: Proyectos
@@ -56,7 +63,7 @@
   contents:
     - title: "TFM: Clonación y caracterización de la proteína ClpB de diferentes bacterias residentes en la microbiota."
       institution: <a href='https://www.cipf.es/?lang=es'>Príncipe Felipe Research Center (CIPF)</a>, España
-      year: 2022
+      year: 2022 - 2023
       description:
        - 1 año de prácticas en el laboratorio "Interacciones microbio-hospedador en la salud metabólica" en el Centro de Investigación Príncipe Felipe (CIPF).
 
@@ -65,42 +72,3 @@
       year: 2021
       description:
        - Collaboration in the medical area of the San Juan de Alicante hospital. (UMH)
-
-
-
-# 
-# - title: Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">ER-GPT</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-# 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
-# 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-# 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-# 

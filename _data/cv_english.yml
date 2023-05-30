@@ -41,6 +41,24 @@
       description:
         - 1 year of internship in the laboratory "Microbe-host interactions in metabolic health" at the Centro de Investigación Príncipe Felipe (CIPF)
 
+- title: Skills
+  type: custom_list
+  contents:
+    - Experience in molecular biology techniques such as DNA extraction, PCR, electrophoresis, SDS-PAGE, Cloning, Plasmid transformation, Chromatographies, Protein purification, etc.
+    - Microbiology techniques (intestinal microbiota bacteria and yeasts).
+    - Genetic study techniques, sequencing, etc.
+    - Cell culture, flow cytometry and staining.
+    - Optical, phase contrast and fluorescence microscopy.
+    - Bioinformatics tools, molecular modeling and database searching.
+    - Bibliographic searches, data analysis and interpretation of scientific results.
+    - Writing of daily scientific reports.
+    - Proficiency with Microsoft Office tools, Canva, Notion, social networks, etc.
+    - Scientific dissemination with journals, social networks and career projects.
+    - Good laboratory practices
+    - Experience in food biotechnology laboratory (pH control, fermentations, alcoholic graduation measurement, organoleptic analysis, beer and wine brewing, etc.). 
+    - Creation of OKelin, a dough made from prebiotic principles, sugar-free, suitable for coeliacs, antioxidant and made from local products.
+
+
 
 - title: Awards
   type: time_table

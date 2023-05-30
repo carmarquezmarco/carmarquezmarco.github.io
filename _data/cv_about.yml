@@ -61,7 +61,7 @@
        - Colaboración en el área médica del Hospital de San Juan, Alicante (UMH).
 
 - title: Idiomas
-  type: list
+  type: custom_list
   contents:
     - Español
     - Inglés

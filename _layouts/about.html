@@ -71,7 +71,7 @@ layout: default
                 <div>
                 {% if entry.type == "list" %}
                   {% include cv/list.html %}
-                {% if entry.type == "custom_list" %}
+                {% elsif entry.type == "custom_list" %}
                   {% include cv/custom_list.html %}
                 {% elsif entry.type == "map" %}
                   {% include cv/map.html %}
